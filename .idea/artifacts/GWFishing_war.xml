@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GWFishing:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="GWBUAA.war">
+      <element id="artifact" artifact-name="GWFishing:war exploded" />
+    </root>
+  </artifact>
+</component>
